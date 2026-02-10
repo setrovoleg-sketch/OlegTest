@@ -27,10 +27,10 @@ public class Main {
         System.out.println(student2.getPhone());
     }
 
-//    public static void sayHello(String phrase){
-//        System.out.println(phrase);
-//     }
-//    public static void sayHello2(String phrase){
-//        System.out.println(phrase);
-//    }
+    public static void sayHello(String phrase){
+        System.out.println(phrase);
+     }
+    public static void sayHello2(String phrase){
+        System.out.println(phrase);
+    }
 }
